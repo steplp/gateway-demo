@@ -31,11 +31,7 @@ public class GatewayDemoApplication {
         SpringApplication.run(GatewayDemoApplication.class, args);
 
         System.out.println(111111111);
-
-        System.out.println(3333333333333L);
-        System.out.println(3333333333333L);
-        System.out.println();
-
+        
     }
 
     @PostConstruct
