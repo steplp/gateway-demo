@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://localhost:8848
+        namespace: c967a69c-f7cc-40be-bfaa-f60e96b1a8ee
+      config:
+        server-addr: http://localhost:8848
+        namespace: c967a69c-f7cc-40be-bfaa-f60e96b1a8ee
+        file-extension: yml
+
+
+
+
+
+
