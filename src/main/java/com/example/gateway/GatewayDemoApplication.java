@@ -37,9 +37,6 @@ public class GatewayDemoApplication {
         System.out.println(111111);
 
 
-
-
-
     }
 
     @PostConstruct
