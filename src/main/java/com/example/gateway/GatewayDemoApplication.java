@@ -29,6 +29,8 @@ public class GatewayDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GatewayDemoApplication.class, args);
+        
+        
     }
 
     @PostConstruct
