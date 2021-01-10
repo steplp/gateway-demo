@@ -29,7 +29,8 @@ public class GatewayDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GatewayDemoApplication.class, args);
-        
+
+        System.out.println(111111111);
         
     }
 
