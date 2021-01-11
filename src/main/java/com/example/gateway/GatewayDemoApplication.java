@@ -42,6 +42,7 @@ public class GatewayDemoApplication {
         System.out.println();
 
 
+        System.err.println("dev_1");
     }
 
     @PostConstruct
