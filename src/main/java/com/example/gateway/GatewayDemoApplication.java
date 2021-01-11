@@ -41,6 +41,7 @@ public class GatewayDemoApplication {
 
         System.out.println();
 
+        System.out.println("dev_2");
 
         System.err.println("dev_1");
     }
